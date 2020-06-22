@@ -1,3 +1,4 @@
-name=g5
-version=0.0.0
-main=src/main.cpp
+name="g5"
+description="Godot project manager."
+version="0.0.0"
+main="src/main.cpp"
